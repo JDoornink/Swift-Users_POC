@@ -1,0 +1,6 @@
+framework module Pods_DatabaseUsers {
+  umbrella header "Pods-DatabaseUsers-umbrella.h"
+
+  export *
+  module * { export * }
+}
